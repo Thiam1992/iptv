@@ -73,3 +73,5 @@ https://live3.acangroup.org:1929/publiclive/walftv.stream/chunks.m3u8
 https://strhls.streamakaci.tv/yakaartv/yakaartv-multi/playlist.m3u8
 #EXTINF:-1 tvg-id="7TV_BIS.sn",7TV (1080p)
 rtmp://entrypointlynktel5.yuppcdn.net/lynktel/7tv
+#EXTINF:-1 tvg-id="RDV.sn",RDV (1080p)
+rtmp://entrypointlynktel4.yuppcdn.net/lynktel/rdv
