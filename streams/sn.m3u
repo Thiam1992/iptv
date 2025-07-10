@@ -79,3 +79,5 @@ rtmp://entrypointlynktel4.yuppcdn.net/lynktel/rdv
 rtmp://entrypointlynktel6.yuppcdn.net/lynktel/malikyatv
 #EXTINF:-1 tvg-id="URBAN AFRICA.sn",URBAN AFRICA TV (1080p)
 rtmp://live-rtmp-dmqk.livepush.io/live/rtmp_92f2edb09ca74e5f95035f0a01002d39
+#EXTINF:-1 tvg-id="LAMPFALL.sn",LAMP FALL TV (1080p)
+rtmp://entrypointlynktel1.yuppcdn.net/lynktel/lampfall
