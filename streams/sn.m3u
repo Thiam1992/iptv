@@ -81,3 +81,5 @@ rtmp://entrypointlynktel6.yuppcdn.net/lynktel/malikyatv
 rtmp://live-rtmp-dmqk.livepush.io/live/rtmp_92f2edb09ca74e5f95035f0a01002d39
 #EXTINF:-1 tvg-id="LAMPFALL.sn",LAMP FALL TV (1080p)
 rtmp://entrypointlynktel1.yuppcdn.net/lynktel/lampfall
+#EXTINF:-1 tvg-id="BANTAMBA.sn",BANTAMBA TV (1080p)
+rtmp://entrypointlynktel6.yuppcdn.net/lynktel/2siraciness
