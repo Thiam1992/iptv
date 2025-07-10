@@ -85,3 +85,5 @@ rtmp://entrypointlynktel1.yuppcdn.net/lynktel/lampfall
 rtmp://entrypointlynktel6.yuppcdn.net/lynktel/2siraciness
 #EXTINF:-1 tvg-id="SENTV.sn",SENTV (1080p)
 rtmp://entrypointlynktel7.yuppcdn.net/lynktel/sentv
+#EXTINF:-1 tvg-id="ITV.sn",ITV (1080p)
+rtmp://entrypointlynktel7.yuppcdn.net/lynktel/itv
