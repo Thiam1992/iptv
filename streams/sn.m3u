@@ -77,3 +77,5 @@ rtmp://entrypointlynktel5.yuppcdn.net/lynktel/7tv
 rtmp://entrypointlynktel4.yuppcdn.net/lynktel/rdv
 #EXTINF:-1 tvg-id="MALIKYAH.sn",MALIKYAH TV (720p)
 rtmp://entrypointlynktel6.yuppcdn.net/lynktel/malikyatv
+#EXTINF:-1 tvg-id="URBAN AFRICA.sn",URBAN AFRICA TV (1080p)
+rtmp://live-rtmp-dmqk.livepush.io/live/rtmp_92f2edb09ca74e5f95035f0a01002d39
