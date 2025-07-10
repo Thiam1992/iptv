@@ -71,5 +71,5 @@ https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/TFM.m3u8
 https://live3.acangroup.org:1929/publiclive/walftv.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="YakaarTV.sn",Yakaar TV (1080p)
 https://strhls.streamakaci.tv/yakaartv/yakaartv-multi/playlist.m3u8
-#EXTINF:-1 tvg-id="7TV_BIS.sn",Yakaar TV (1080p)
+#EXTINF:-1 tvg-id="7TV_BIS.sn",7TV (1080p)
 rtmp://entrypointlynktel5.yuppcdn.net/lynktel/7tv
