@@ -89,3 +89,5 @@ rtmp://entrypointlynktel7.yuppcdn.net/lynktel/sentv
 rtmp://entrypointlynktel7.yuppcdn.net/lynktel/itv
 #EXTINF:-1 tvg-id="WALF_TV.sn",WALF TV (1080p)
 rtmp://entrypointlynktel4.yuppcdn.net/lynktel/walftv
+#EXTINF:-1 tvg-id=TFM.sn",TFM BIS (1080p)
+https://live.eu-north-1a.cf.dmcdn.net/sec2(DmeIWXPhuB2gOscWWDZbF4tA9qoOmg3y_KZvE93KVrdIt2VsQ7X6-TzEs-fubf3oXwCgvoCfyCwUc_FBmZZEp76YG-FY_3UQt1Uw-mXosQYCFDxpxHWiSDt3hSoNAaaO)/dm/3/x7wcr45/s/live-480.m3u8
