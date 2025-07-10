@@ -93,3 +93,5 @@ rtmp://entrypointlynktel4.yuppcdn.net/lynktel/walftv
 https://live.eu-north-1a.cf.dmcdn.net/sec2(DmeIWXPhuB2gOscWWDZbF4tA9qoOmg3y_KZvE93KVrdIt2VsQ7X6-TzEs-fubf3oXwCgvoCfyCwUc_FBmZZEp76YG-FY_3UQt1Uw-mXosQYCFDxpxHWiSDt3hSoNAaaO)/dm/3/x7wcr45/s/live-480.m3u8
 #EXTINF:-1 tvg-id=TFM.sn",SEN TV BIS (1080p)
 https://live1.acangroup.org:1929/acanabr/sentv.stream_all/acanabr/sentv.stream_HD/chunks.m3u8?nimblesessionid=252440153&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMC8yMDI1IDg6MDc6NDIgUE0maGFzaF92YWx1ZT03MkllTjdNWi9SV1VySEY0Y20zS1pRPT0mdmFsaWRtaW51dGVzPTEw
+#EXTINF:-1 tvg-id=RTS1.sn",RTS1 BIS (1080p)
+https://live1.acangroup.org:1929/larts/rts1_all/larts/rts1.stream_HD/chunks.m3u8?nimblesessionid=252445928&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMC8yMDI1IDg6MjA6NTAgUE0maGFzaF92YWx1ZT1hdDFxYnhVWVg0YVExQ3BVRmhtL2pnPT0mdmFsaWRtaW51dGVzPTEw
