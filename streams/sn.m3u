@@ -95,3 +95,5 @@ rtmp://entrypointlynktel5.yuppcdn.net/lynktel/tfm
 rtmp://entrypointlynktel6.yuppcdn.net/lynktel/2stv
 #EXTINF:-1 tvg-id=ITV.sn",ITV (1080p)
 rtmp://entrypointlynktel7.yuppcdn.net/lynktel/itv
+#EXTINF:-1 tvg-id=ITV.sn",ZIG TV (1080p)
+https://5c46fa289c89f.streamlock.net/kc2/kc2/chunklist_w835709053.m3u8
