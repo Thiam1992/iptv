@@ -89,7 +89,7 @@ rtmp://entrypointlynktel7.yuppcdn.net/lynktel/sentv
 rtmp://entrypointlynktel7.yuppcdn.net/lynktel/itv
 #EXTINF:-1 tvg-id="WALF_TV.sn",WALF TV (1080p)
 rtmp://entrypointlynktel4.yuppcdn.net/lynktel/walftv
-#EXTINF:-1 tvg-id=TFM.sn",TFM (1080p)
+#EXTINF:-1 tvg-id=TFM.sn",TFM_BIS(1080p)
 rtmp://entrypointlynktel5.yuppcdn.net/lynktel/tfm
 #EXTINF:-1 tvg-id=2STV.sn",2STV BIS (1080p)
 rtmp://entrypointlynktel6.yuppcdn.net/lynktel/2stv
