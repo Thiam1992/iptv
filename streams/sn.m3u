@@ -51,6 +51,8 @@ https://mamoch.me/hls/rewmitv/index.m3u8
 https://senrtmp.com/hls/rfm.m3u8
 #EXTINF:-1 tvg-id="RTS1.sn",RTS 1 (720p)
 http://69.64.57.208/rts1/playlist.m3u8
+#EXTINF:-1 tvg-id="RTS1.sn",RTS 1_BIS (720p)
+rtmp://entrypointlynktel1.yuppcdn.net/lynktel/rts_1
 #EXTINF:-1 tvg-id="RTS2.sn",RTS 2 (720p)
 http://69.64.57.208/rts2/playlist.m3u8
 #EXTINF:-1 tvg-id="SenJeunesTV.sn",SenJeunes TV (480p) [Not 24/7]
