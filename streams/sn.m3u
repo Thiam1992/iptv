@@ -75,3 +75,9 @@ http://69.64.57.208/rts1/playlist.m3u8
 http://69.64.57.208/rts2/playlist.m3u8
 #EXTINF:-1 tvg-id="SenTV.sn",Sen TV (360p)
 http://69.64.57.208/sentv/playlist.m3u8
+#EXTINF:-1 tvg-id="TELEMUUSIK.sn",TELEMUSIK (720)
+rtmp://entrypointlynktel7.yuppcdn.net/lynktel/tms
+#EXTINF:-1 tvg-id="GTV.sn",GTV (720p)
+rtmp://entrypointlynktel4.yuppcdn.net/lynktel/dtv
+#EXTINF:-1 tvg-id="LERALTV.sn",LERAL TV (720p)
+rtmp://entrypointlynktel7.yuppcdn.net/lynktel/leraltv
