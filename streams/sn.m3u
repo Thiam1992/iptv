@@ -1,49 +1,23 @@
-#EXTINF:-1 tvg-id="313Digital.sn",313 Digital (1080p) [Not 24/7]
-https://ythls.armelin.one/channel/UCkfPKgTSJljrXmwm1m0iY8Q.m3u8
 #EXTINF:-1 tvg-id="A2iMusic.sn",A2i Music (720p) [Not 24/7]
 https://stream.sen-gt.com/A2iMusic/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="A2iReligion.sn",A2i Religion (720p) [Not 24/7]
 https://stream.sen-gt.com/A2iReligion/myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="LeralTV.sn",Leral TV (480p)
-https://live3.acangroup.org:1929/acanabr/leraltv_all/acanabr/leraltv_720p/chunks.m3u8
-#EXTINF:-1 tvg-id="LouBessTV.sn",Lou'Bess TV (1080p) [Not 24/7]
-https://ythls.armelin.one/channel/UCkEyFrOg61vOOEfG6pdRINg.m3u8
 #EXTINF:-1 tvg-id="LougaTV.sn",Louga TV (480p)
 https://stream.sen-gt.com/Mbacke/myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="MADERTV.sn",Mader TV (720p)
-https://goccn.cloud/hls/Madertv/index.m3u8
 #EXTINF:-1 tvg-id="MalikiaTV.sn",Malikia TV (1080p) [Not 24/7]
 https://ythls.armelin.one/channel/UC0V1TlLFybhr0MJzxxXgdWw.m3u8
-#EXTINF:-1 tvg-id="MourchidTV.sn",Mourchid TV (720p) [Not 24/7]
-https://ythls.armelin.one/channel/UCd4M7knaiPnAtfN28qm7Q9w.m3u8
-#EXTINF:-1 tvg-id="MourideTV.sn",Mouride TV (720p)
-http://51.81.109.113:1935/Livemouridetv/mouridetv/playlist.m3u8
-#EXTINF:-1 tvg-id="OneNationTV.sn",One Nation TV (720p) [Not 24/7]
-https://endour.net/hls/One_nationtv/index.m3u8
-#EXTINF:-1 tvg-id="RTS1.sn",RTS 1 (720p)
-http://69.64.57.208/rts1/playlist.m3u8
 #EXTINF:-1 tvg-id="RTS1.sn",RTS 1_BIS (720p)
 rtmp://entrypointlynktel1.yuppcdn.net/lynktel/rts_1
+#EXTINF:-1 tvg-id="RTS1.sn",RTS 2_BIS (720p)
+rtmp://entrypointlynktel6.yuppcdn.net/lynktel/rts2
 #EXTINF:-1 tvg-id="RTS2.sn",RTS 2 (720p)
 http://69.64.57.208/rts2/playlist.m3u8
-#EXTINF:-1 tvg-id="SenJeunesTV.sn",SenJeunes TV (480p) [Not 24/7]
-https://stream.sen-gt.com/senjeunestv/myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="SenTV.sn",Sen TV (480p)
-https://ythls.armelin.one/channel/UCAUXyESHY44j2QOLUsm5fAg.m3u8
-#EXTINF:-1 tvg-id="TFM.sn",TFM (720p)
-https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/TFM.m3u8
-#EXTINF:-1 tvg-id="WalfTV.sn",Walf TV (480p)
-https://live3.acangroup.org:1929/publiclive/walftv.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="YakaarTV.sn",Yakaar TV (1080p)
-https://strhls.streamakaci.tv/yakaartv/yakaartv-multi/playlist.m3u8
 #EXTINF:-1 tvg-id="7TV_BIS.sn",7TV (1080p)
 rtmp://entrypointlynktel5.yuppcdn.net/lynktel/7tv
 #EXTINF:-1 tvg-id="RDV.sn",RDV (1080p)
 rtmp://entrypointlynktel4.yuppcdn.net/lynktel/rdv
 #EXTINF:-1 tvg-id="MALIKYAH.sn",MALIKYAH TV (720p)
 rtmp://entrypointlynktel6.yuppcdn.net/lynktel/malikyatv
-#EXTINF:-1 tvg-id="URBAN AFRICA.sn",URBAN AFRICA TV (1080p)
-rtmp://live-rtmp-dmqk.livepush.io/live/rtmp_92f2edb09ca74e5f95035f0a01002d39
 #EXTINF:-1 tvg-id="LAMPFALL.sn",LAMP FALL TV (1080p)
 rtmp://entrypointlynktel1.yuppcdn.net/lynktel/lampfall
 #EXTINF:-1 tvg-id="BANTAMBA.sn",BANTAMBA TV (1080p)
