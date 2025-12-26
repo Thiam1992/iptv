@@ -55,3 +55,5 @@ rtmp://entrypointlynktel7.yuppcdn.net/lynktel/tms
 rtmp://entrypointlynktel4.yuppcdn.net/lynktel/dtv
 #EXTINF:-1 tvg-id="LERALTV.sn",LERAL TV (720p)
 rtmp://entrypointlynktel7.yuppcdn.net/lynktel/leraltv
+#EXTINF:-1 tvg-id="LERALTV.sn",SENTV (720p)
+https://live1.acangroup.org:1929/acanabr/sentv.stream_all/acanabr/sentv.stream_HD/chunks.m3u8?nimblesessionid=324763691&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjYvMjAyNSAxMjozMTowMCBQTSZoYXNoX3ZhbHVlPXBscWFPTjQ5T0RQazhvZUNuMm9FMUE9PSZ2YWxpZG1pbnV0ZXM9MTA=
