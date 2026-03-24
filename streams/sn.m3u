@@ -44,3 +44,6 @@ rtmp://entrypointlynktel7.yuppcdn.net/lynktel/tms
 rtmp://entrypointlynktel4.yuppcdn.net/lynktel/dtv
 #EXTINF:-1 tvg-id="LERALTV.sn",LERAL TV (720p)
 rtmp://entrypointlynktel7.yuppcdn.net/lynktel/leraltv
+#EXTINF:-1 tvg-id="LERALTV.sn",FRANCE 24
+https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_900.m3u8
+
