@@ -4,8 +4,6 @@ https://stream.sen-gt.com/A2iMusic/myStream/playlist.m3u8
 https://stream.sen-gt.com/A2iReligion/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="LougaTV.sn",Louga TV (480p)
 https://stream.sen-gt.com/Mbacke/myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="MalikiaTV.sn",Malikia TV (1080p) [Not 24/7]
-https://ythls.armelin.one/channel/UC0V1TlLFybhr0MJzxxXgdWw.m3u8
 #EXTINF:-1 tvg-id="RTS1.sn",RTS 1_BIS (720p)
 rtmp://entrypointlynktel1.yuppcdn.net/lynktel/rts_1
 #EXTINF:-1 tvg-id="RTS1.sn",RTS 2_BIS (720p)
@@ -30,7 +28,7 @@ rtmp://entrypointlynktel7.yuppcdn.net/lynktel/itv
 rtmp://entrypointlynktel4.yuppcdn.net/lynktel/walftv
 #EXTINF:-1 tvg-id=TFM.sn",TFM_BIS(1080p)
 rtmp://entrypointlynktel5.yuppcdn.net/lynktel/tfm
-#EXTINF:-1 tvg-id=2STV.sn",2STV BIS (1080p)
+#EXTINF:-1 tvg-id=2STV.sn",2STV_BIS (1080p)
 rtmp://entrypointlynktel6.yuppcdn.net/lynktel/2stv
 #EXTINF:-1 tvg-id=ITV.sn",ITV (1080p)
 rtmp://entrypointlynktel7.yuppcdn.net/lynktel/itv
@@ -40,20 +38,9 @@ https://5c46fa289c89f.streamlock.net/kc2/kc2/chunklist_w835709053.m3u8
 rtmp://entrypointlynktel3.yuppcdn.net/lynktel/asfiyahitv
 #EXTINF:-1 tvg-id=MALIKYAH.sn",MALIKYAH TV (1080p)
 rtmp://entrypointlynktel6.yuppcdn.net/lynktel/malikyatv
-#EXTINF:-1 tvg-id="TFM.sn",TFM (720p)
-http://69.64.57.208/tfm/playlist.m3u8
-#EXTINF:-1 tvg-id="TFM.sn@SD",TFM (720p)
-#EXTINF:-1 tvg-id="RTS1.sn",RTS 1 (720p)
-http://69.64.57.208/rts1/playlist.m3u8
-#EXTINF:-1 tvg-id="RTS2.sn",RTS 2 (720p)
-http://69.64.57.208/rts2/playlist.m3u8
-#EXTINF:-1 tvg-id="SenTV.sn",Sen TV (360p)
-http://69.64.57.208/sentv/playlist.m3u8
 #EXTINF:-1 tvg-id="TELEMUUSIK.sn",TELEMUSIK (720)
 rtmp://entrypointlynktel7.yuppcdn.net/lynktel/tms
 #EXTINF:-1 tvg-id="GTV.sn",GTV (720p)
 rtmp://entrypointlynktel4.yuppcdn.net/lynktel/dtv
 #EXTINF:-1 tvg-id="LERALTV.sn",LERAL TV (720p)
 rtmp://entrypointlynktel7.yuppcdn.net/lynktel/leraltv
-#EXTINF:-1 tvg-id="LERALTV.sn",SENTV (720p)
-https://live1.acangroup.org:1929/acanabr/sentv.stream_all/acanabr/sentv.stream_HD/chunks.m3u8?nimblesessionid=324763691&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjYvMjAyNSAxMjozMTowMCBQTSZoYXNoX3ZhbHVlPXBscWFPTjQ5T0RQazhvZUNuMm9FMUE9PSZ2YWxpZG1pbnV0ZXM9MTA=
